@@ -27,7 +27,7 @@ echo "</br>";
 //var_dump(constant('One::'.t));
 //var_dump(constant('Two::'.t));
 
-const text = "This is a ";
+const text         = "This is a ";
 const extendedText = text . ' Text';
 echo text;
 echo "</br>";
